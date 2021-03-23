@@ -98,7 +98,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-04d-Save-and-Load
-Exercise for MSCH-C220, 15 March 2021
+Exercise for MSCH-C220, 22 March 2021
 
 The fourth exercise for the 2D Platformer project, exploring save and load (in two projects).
 
@@ -118,5 +118,5 @@ For more information about save and load in Godot, visit the Godot documentation
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
